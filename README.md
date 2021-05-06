@@ -1,4 +1,4 @@
-## Bootstrap 4(Stable) + FontAwesome 5 Starter Kit
+## Bootstrap 5 (Stable) + FontAwesome 5 Starter Kit
 ---
 
 ### Overview
