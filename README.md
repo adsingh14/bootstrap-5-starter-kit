@@ -3,7 +3,7 @@
 
 ### Overview
 
-This boilerplate includes both offline & online(CDN) version of Bootstrap 4 along with Font Awesome 5 (free version).
+This boilerplate includes both offline & online(CDN) version of Bootstrap along with Font Awesome (free version).
 
 
 ### What's inside
