@@ -3,15 +3,15 @@
 
 ### Overview
 
-This boilerplate includes both offline & online(CDN) version of Bootstrap along with Font Awesome (free version).
+This boilerplate includes both offline & online(CDN) version of Bootstrap 5 along with Font Awesome 5 (free version).
 
 
 ### What's inside
 
 * Offline & CDN version of
-  * Bootstrap 5.0.0
-  * Font Awesome 5.15.3
-  * jQuery 3.5.1
+  * Bootstrap 5
+  * Font Awesome 5*
+  * jQuery 3.5*
   * Popper.js 2.9.2
 
 
@@ -40,3 +40,5 @@ Download the `.zip` file directly on your device.
 
 
 **_Have a nice day!_**
+
+*: Optional Files
