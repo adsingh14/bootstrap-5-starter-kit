@@ -12,7 +12,7 @@ This boilerplate includes both offline & online(CDN) version of Bootstrap 5 alon
   * Bootstrap 5
   * Font Awesome 5*
   * jQuery 3.5*
-  * Popper.js 2.9.2
+  * Popper.js 2.10.X
 
 
 ### Installation
@@ -28,14 +28,13 @@ Download the `.zip` file directly on your device.
 
 ### How to use
 
-* Online(CDN): Just copy the `index - CDN version.html` in any folder & start coding.
-* Offline: Copy the folder `Offline Setup` in your local directory & start with `index.html`.
+* Online(CDN): Just copy the `index - CDN version.html` in any folder.
+* Offline: Copy `Offline Setup` folder in your local directory & start with `index.html`.
 
 
 ### Resources
 
-* [Bootstrap 5 Official Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Bootstrap News & Announcements](https://blog.getbootstrap.com/)
+* [Bootstrap 5 Official Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 * [Font Awesome 5 - Icon Finder](https://fontawesome.com/icons)
 
 
