@@ -9,7 +9,7 @@ This boilerplate includes both offline & online(CDN) version of Bootstrap 5 alon
 ### What's inside
 
 * Offline & CDN version of
-  * Bootstrap 5.6.3[^1]
+  * Bootstrap 5.1[^1]
   * Font Awesome 5.12[^2]
   * jQuery 3.5
   * Popper.js 2.10
