@@ -5,9 +5,9 @@ This boilerplate includes both offline and online (CDN) versions of Bootstrap 5,
 ### What's inside
 
 * Offline & CDN version of
-  * Bootstrap 5.2[^1]
-  * Bootstrap Icons 1.10[^2]
-  * Popper.js 2.11
+  * Bootstrap 5.3.2[^1]
+  * Bootstrap Icons 1.11.1[^2]
+  * Popper.js 2.11.8
 
 
 ### Installation
@@ -27,6 +27,6 @@ Download the `.zip` file directly on your device.
 * Offline: Copy `Offline Setup` folder in your local directory & start with `index.html`.
 
 <!-- Resources -->
-[^1]: [Bootstrap 5 Official Documentation](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+[^1]: [Bootstrap 5 Official Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 [^2]: [Bootstrap Icon Finder](https://icons.getbootstrap.com/#icons)
